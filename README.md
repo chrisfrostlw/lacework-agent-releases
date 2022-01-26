@@ -1,5 +1,7 @@
 <a href="https://www.lacework.com/"><img src="https://www.lacework.com/wp-content/uploads/2019/07/Lacework_Logo_color_2019.svg" width="250px" height="100px" title="Lacework" alt="Lacework"></a>
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/3de284cb-0cd5-4619-8cfa-423ea41a976b.svg?orgId=472689022381)](https://app.soluble.cloud/repos/details/github.com/chrisfrostlw/lacework-agent-releases?orgId=472689022381)  
+
 # Lacework Agent Releases
 This Lacework agent GitHub site provides the officially supported Lacework agent releases. From this site, you can download and install Lacework agent releases. 
 
